@@ -59,3 +59,4 @@ function printData(name, a=""){
 }
 printData("kumkum");
 printData("lili");
+Ans: kumkum lili
